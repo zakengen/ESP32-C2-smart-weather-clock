@@ -14,6 +14,8 @@ It uses an ESP32-C2 (ESP8684), which is an updated version of the ESP32-C2 (revi
 <img width="383" height="383" alt="image" src="https://github.com/user-attachments/assets/511b354d-bd5c-4506-b672-aa02863c9541" /> <img width="383" height="383" alt="image" src="https://github.com/user-attachments/assets/66a97ab2-4bb1-4bd2-a4e4-e36f9688ff63" />
 
 the correct SPI pins
+
+
 +-----------+-----------+----------------------------------+
 | Your Pin  | SPI Name  | Function / Description           |
 +-----------+-----------+----------------------------------+
@@ -24,6 +26,7 @@ the correct SPI pins
 | GPIO 01   | RST       | Reset                            |
 | GPIO 18   | LED / BL  | Backlight Control (Inverted)     |
 +-----------+-----------+----------------------------------+
+
 
 AND you can find the [ESPHome](https://community.home-assistant.io/t/installing-esphome-on-new-smart-weather-clock-wifi-weather-station-display/1006172). setup 
 
