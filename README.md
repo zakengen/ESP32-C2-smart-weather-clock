@@ -25,7 +25,7 @@ the correct SPI pins
 | GPIO 18   | LED / BL  | Backlight Control (Inverted)     |
 +-----------+-----------+----------------------------------+
 
-AND you can find the [ESPHome] (https://community.home-assistant.io/t/installing-esphome-on-new-smart-weather-clock-wifi-weather-station-display/1006172) setup 
+AND you can find the [ESPHome](https://community.home-assistant.io/t/installing-esphome-on-new-smart-weather-clock-wifi-weather-station-display/1006172). setup 
 
 
 
